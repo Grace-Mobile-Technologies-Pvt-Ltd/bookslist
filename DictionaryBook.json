@@ -43,12 +43,12 @@
   },
   {
     "id": "3",
-    "bookCategory": "Action and Adventure",
+    "bookCategory": "Books",
     "booksDetails": [
       {
         "id": "1",
-        "bookUrl": "https://github.com/gdafzalkhan99/files/raw/main/English%20Tenses%20(by%20Dictionary).pdf",
-        "totalSlides": "14"
+        "bookUrl": "https://download1596.mediafire.com/aakboe6i83jg/yacrvn7582s1byk/introduction+to+economics+and+finance.pdf",
+        "totalSlides": "324"
       },
       {
         "id": "2",
